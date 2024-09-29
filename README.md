@@ -101,3 +101,6 @@ Benefits of a Calculator Component:
 Reusability: Once the calculator is built, it can be reused in different parts of an application or embedded in other projects.
 State Management: React's state management is used to track the input and results. This ensures that the component re-renders efficiently whenever there are changes.
 Interactive User Experience: A calculator provides immediate feedback, as users can perform operations and see results in real-time.
+
+![EX 3](https://github.com/user-attachments/assets/b2701802-7b6b-4128-bf19-48d738b87f5a)
+
